@@ -24,6 +24,3 @@ print(tuple.index('ayşe'))
 
 print(list)
 print(tuple)
-
-
-

@@ -1,5 +1,6 @@
-yas = int(input("yasini gir"))
-if yas >= 18 :
-    print("askere git")
-else:
-    print("askere gitme")
+
+
+Tl_tutar=int(input("Tl_tutarı giriniz:"))
+dolar_kuru=14.680
+olusan_dolar=Tl_tutar/dolar_kuru
+print(olusan_dolar)
